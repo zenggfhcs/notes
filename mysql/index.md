@@ -1,0 +1,1 @@
+![!img](..\images\mysql\sql-type.png)
